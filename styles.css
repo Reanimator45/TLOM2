@@ -143,3 +143,23 @@ header {
 header h1 {
     margin-bottom: 0;
 }
+
+h1 {
+    color: #66dde8;
+    align-items: center;
+}
+#codigoInput {
+    padding: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 10px;
+    background-color:#000000;
+    color: #66dde8;
+}
+#verificacion{
+    text-align: center;
+}
+#informacion{
+    color: #66dde8;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
